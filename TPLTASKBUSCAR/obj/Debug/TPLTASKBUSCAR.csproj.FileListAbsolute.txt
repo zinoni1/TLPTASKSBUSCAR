@@ -1,0 +1,31 @@
+X:\Dev\VisualStudio\Projects\TPLTASKBUSCAR\TPLTASKBUSCAR\bin\Debug\TPLTASKBUSCAR.exe.config
+X:\Dev\VisualStudio\Projects\TPLTASKBUSCAR\TPLTASKBUSCAR\bin\Debug\data\arxiuUsers.csv
+X:\Dev\VisualStudio\Projects\TPLTASKBUSCAR\TPLTASKBUSCAR\bin\Debug\TPLTASKBUSCAR.exe
+X:\Dev\VisualStudio\Projects\TPLTASKBUSCAR\TPLTASKBUSCAR\bin\Debug\TPLTASKBUSCAR.pdb
+X:\Dev\VisualStudio\Projects\TPLTASKBUSCAR\TPLTASKBUSCAR\obj\Debug\TPLTASKBUSCAR.csprojResolveAssemblyReference.cache
+X:\Dev\VisualStudio\Projects\TPLTASKBUSCAR\TPLTASKBUSCAR\obj\Debug\TPLTASKBUSCAR.Form1.resources
+X:\Dev\VisualStudio\Projects\TPLTASKBUSCAR\TPLTASKBUSCAR\obj\Debug\TPLTASKBUSCAR.Properties.Resources.resources
+X:\Dev\VisualStudio\Projects\TPLTASKBUSCAR\TPLTASKBUSCAR\obj\Debug\TPLTASKBUSCAR.csproj.GenerateResource.Cache
+X:\Dev\VisualStudio\Projects\TPLTASKBUSCAR\TPLTASKBUSCAR\obj\Debug\TPLTASKBUSCAR.exe
+X:\Dev\VisualStudio\Projects\TPLTASKBUSCAR\TPLTASKBUSCAR\obj\Debug\TPLTASKBUSCAR.pdb
+E:\CopiaDB\Curs 2019-2020\Mataró\GS\PSP\mp09_DAM\UF2\demos\TPLTASKBUSCAR\TPLTASKBUSCAR\bin\Debug\data\arxiuUsers.csv
+E:\CopiaDB\Curs 2019-2020\Mataró\GS\PSP\mp09_DAM\UF2\demos\TPLTASKBUSCAR\TPLTASKBUSCAR\bin\Debug\TPLTASKBUSCAR.exe.config
+E:\CopiaDB\Curs 2019-2020\Mataró\GS\PSP\mp09_DAM\UF2\demos\TPLTASKBUSCAR\TPLTASKBUSCAR\bin\Debug\TPLTASKBUSCAR.exe
+E:\CopiaDB\Curs 2019-2020\Mataró\GS\PSP\mp09_DAM\UF2\demos\TPLTASKBUSCAR\TPLTASKBUSCAR\bin\Debug\TPLTASKBUSCAR.pdb
+E:\CopiaDB\Curs 2019-2020\Mataró\GS\PSP\mp09_DAM\UF2\demos\TPLTASKBUSCAR\TPLTASKBUSCAR\obj\Debug\TPLTASKBUSCAR.Form1.resources
+E:\CopiaDB\Curs 2019-2020\Mataró\GS\PSP\mp09_DAM\UF2\demos\TPLTASKBUSCAR\TPLTASKBUSCAR\obj\Debug\TPLTASKBUSCAR.Properties.Resources.resources
+E:\CopiaDB\Curs 2019-2020\Mataró\GS\PSP\mp09_DAM\UF2\demos\TPLTASKBUSCAR\TPLTASKBUSCAR\obj\Debug\TPLTASKBUSCAR.csproj.GenerateResource.cache
+E:\CopiaDB\Curs 2019-2020\Mataró\GS\PSP\mp09_DAM\UF2\demos\TPLTASKBUSCAR\TPLTASKBUSCAR\obj\Debug\TPLTASKBUSCAR.csproj.CoreCompileInputs.cache
+E:\CopiaDB\Curs 2019-2020\Mataró\GS\PSP\mp09_DAM\UF2\demos\TPLTASKBUSCAR\TPLTASKBUSCAR\obj\Debug\TPLTASKBUSCAR.exe
+E:\CopiaDB\Curs 2019-2020\Mataró\GS\PSP\mp09_DAM\UF2\demos\TPLTASKBUSCAR\TPLTASKBUSCAR\obj\Debug\TPLTASKBUSCAR.pdb
+C:\Users\Zenonrp\Desktop\DAM2\Progserpro\TPLTASKBUSCAR\TPLTASKBUSCAR\obj\Debug\TPLTASKBUSCAR.exe
+C:\Users\Zenonrp\Desktop\DAM2\Progserpro\TPLTASKBUSCAR\TPLTASKBUSCAR\obj\Debug\TPLTASKBUSCAR.pdb
+C:\Users\Zenonrp\Desktop\DAM2\Progserpro\TPLTASKBUSCAR\TPLTASKBUSCAR\obj\Debug\TPLTASKBUSCAR.csproj.AssemblyReference.cache
+C:\Users\Zenonrp\Desktop\DAM2\Progserpro\TPLTASKBUSCAR\TPLTASKBUSCAR\obj\Debug\TPLTASKBUSCAR.Form1.resources
+C:\Users\Zenonrp\Desktop\DAM2\Progserpro\TPLTASKBUSCAR\TPLTASKBUSCAR\obj\Debug\TPLTASKBUSCAR.Properties.Resources.resources
+C:\Users\Zenonrp\Desktop\DAM2\Progserpro\TPLTASKBUSCAR\TPLTASKBUSCAR\obj\Debug\TPLTASKBUSCAR.csproj.GenerateResource.cache
+C:\Users\Zenonrp\Desktop\DAM2\Progserpro\TPLTASKBUSCAR\TPLTASKBUSCAR\obj\Debug\TPLTASKBUSCAR.csproj.CoreCompileInputs.cache
+C:\Users\Zenonrp\Desktop\DAM2\Progserpro\TPLTASKBUSCAR\TPLTASKBUSCAR\bin\Debug\data\arxiuUsers.csv
+C:\Users\Zenonrp\Desktop\DAM2\Progserpro\TPLTASKBUSCAR\TPLTASKBUSCAR\bin\Debug\TPLTASKBUSCAR.exe.config
+C:\Users\Zenonrp\Desktop\DAM2\Progserpro\TPLTASKBUSCAR\TPLTASKBUSCAR\bin\Debug\TPLTASKBUSCAR.exe
+C:\Users\Zenonrp\Desktop\DAM2\Progserpro\TPLTASKBUSCAR\TPLTASKBUSCAR\bin\Debug\TPLTASKBUSCAR.pdb
